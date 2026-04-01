@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Naamã Setogutte, tenho 20 anos e atualmente moro em Maringá - PR. Estou cursando Engenharia de Software na Unicesumar. Tenho interesse na área de tecnologia, principalmente em desenvolvimento de software, estou sempre buscando evoluir minhas habilidades através de projetos e estudos práticos.
+Me chamo Naamã Setogutte Loureiro, tenho 20 anos e atualmente moro em Maringá - PR. Estou cursando Engenharia de Software na Unicesumar. Tenho interesse na área de tecnologia, principalmente em desenvolvimento de software, estou sempre buscando evoluir minhas habilidades através de projetos e estudos práticos.
 
 ---
 
