@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Naamã Setogutte
+# 👨🏻‍💻 Naamã Setogutte Loureiro
 
 Atualmente estou cursando Engenharia de Software na Unicesumar  
 
